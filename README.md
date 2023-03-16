@@ -5,7 +5,7 @@
     </div>
  
    <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Harsh+%F0%9F%91%8B;Computer+Science+Student;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%256FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Harsh+%F0%9F%91%8B;Computer+Science+Student;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
     </div>
 
 <!--
@@ -13,7 +13,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on javascript
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
