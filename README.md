@@ -1,4 +1,8 @@
-### Hi there 👋
+### Heya I'm Harsh Singh👋
+
+ <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    </div>
 
 <!--
 **hS71Ru/hS71Ru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
