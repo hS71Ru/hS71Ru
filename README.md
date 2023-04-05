@@ -5,7 +5,7 @@
         <img src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="Coding" height="300">
     </div>
     
-<div aligh="right'>
+<div aligh="right">
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
@@ -21,11 +21,6 @@ Ask me anything <a href="https://github.com/hS71Ru/hS71Ru/issues/new"><b>here</b
 </div>
 
 
-</div align="center">
-
-![Snake animation](https://github.com/hS71Ru/hS71Ru/blob/output/github-contribution-grid-snake.svg)
- 
- </div>
 
 <!-- **hS71Ru/hS71Ru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
