@@ -1,4 +1,6 @@
-### Heya I'm Harsh Singh👋
+<div align="center">
+  ### Heya I'm Harsh Singh👋
+</div>
 
 <br>
 
