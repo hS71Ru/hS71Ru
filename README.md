@@ -1,5 +1,5 @@
 <div align="center">
-  ### Heya I'm Harsh Singh👋
+  <b>### Heya I'm Harsh Singh👋</b>
 </div>
 
 <br>
