@@ -2,22 +2,12 @@
   <b>### Heya I'm Harsh Singh👋</b>
 </div>
 
-<br>
+<div>  
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-</br>
-
-
-<div align="center">
-
-You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/hS71Ru/hS71Ru/issues/new"><b>here</b></a> or <a href="mailto:harsh.sara45@gmail.com"><b>email</b></a> me
-
-<i>Happy Coding!</i> 😊
 </div>
 
-<div>
-**Languages and Tools:** 
+<div align="left">
+<b>Languages and Tools:</b><br> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -27,6 +17,16 @@ Ask me anything <a href="https://github.com/hS71Ru/hS71Ru/issues/new"><b>here</b
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+</div>
+
+
+<div align="center">
+
+You have finally discovered my Github profile. <br>
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+Ask me anything <a href="https://github.com/hS71Ru/hS71Ru/issues/new"><b>here</b></a> or <a href="mailto:harsh.sara45@gmail.com"><b>email</b></a> me
+
+<i>Happy Coding!</i> 😊
 </div>
 
 
